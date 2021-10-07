@@ -1,0 +1,21 @@
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif ;
+  margin: 20;
+}
+
+
+
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+h2 {
+  border-left: 6px solid red;
+  background-color: lightgrey;
+}
